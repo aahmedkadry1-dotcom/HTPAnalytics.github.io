@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8' ?>
+<workbook original-version='18.1' source-build='2023.1.0 (20231.23.0310.1045)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+<document-format-change-manifest><SheetIdentifierTracking/><WindowsPersistSimpleIdentifiers/></document-format-change-manifest>
+<preferences/>
+<datasources/>
+<dashboards>
+<dashboard name='HTP Analytics 3D'><style/><size maxheight='768' maxwidth='1366' minheight='768' minwidth='1366' sizing-mode='fixed'/><zones><zone h='100000' id='1' type-v2='layout-basic' w='100000' x='0' y='0'><zone h='100000' id='2' param='https://YOUR-HOST/htp-analytics-3d/index.html' type-v2='web' w='100000' x='0' y='0'><zone-style><format attr='border-style' value='none'/><format attr='border-width' value='0'/><format attr='margin' value='0'/></zone-style></zone><zone-style><format attr='margin' value='0'/></zone-style></zone></zones></dashboard>
+</dashboards>
+<windows source-height='30'>
+<window class='dashboard' maximized='true' name='HTP Analytics 3D'><viewpoints/><active id='-1'/><simple-id uuid='{7C1E2A44-3B9D-4F2E-9A61-5D8E0B3C7F12}'/></window>
+</windows>
+</workbook>
